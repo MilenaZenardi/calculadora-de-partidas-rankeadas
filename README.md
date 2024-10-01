@@ -1,1 +1,1 @@
-# calculadora-de-partidas-rankeadas
+# calculadora-de-partidas-rankeadas DIO / GFT
